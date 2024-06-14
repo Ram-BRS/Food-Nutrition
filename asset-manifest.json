@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/buildriseshine/api/reactjs/food-nutrition/static/css/main.f63e4bfb.css",
-    "main.js": "/buildriseshine/api/reactjs/food-nutrition/static/js/main.6a0cfaa4.js",
-    "static/js/787.06519866.chunk.js": "/buildriseshine/api/reactjs/food-nutrition/static/js/787.06519866.chunk.js",
-    "static/media/BG.png": "/buildriseshine/api/reactjs/food-nutrition/static/media/BG.0805d1c579b3eb137695.png",
-    "index.html": "/buildriseshine/api/reactjs/food-nutrition/index.html",
-    "main.f63e4bfb.css.map": "/buildriseshine/api/reactjs/food-nutrition/static/css/main.f63e4bfb.css.map",
-    "main.6a0cfaa4.js.map": "/buildriseshine/api/reactjs/food-nutrition/static/js/main.6a0cfaa4.js.map",
-    "787.06519866.chunk.js.map": "/buildriseshine/api/reactjs/food-nutrition/static/js/787.06519866.chunk.js.map"
+    "main.css": "/Food-Nutrition/static/css/main.d6948e0d.css",
+    "main.js": "/Food-Nutrition/static/js/main.0d4f2736.js",
+    "static/js/787.06519866.chunk.js": "/Food-Nutrition/static/js/787.06519866.chunk.js",
+    "static/media/BG.png": "/Food-Nutrition/static/media/BG.0805d1c579b3eb137695.png",
+    "index.html": "/Food-Nutrition/index.html",
+    "main.d6948e0d.css.map": "/Food-Nutrition/static/css/main.d6948e0d.css.map",
+    "main.0d4f2736.js.map": "/Food-Nutrition/static/js/main.0d4f2736.js.map",
+    "787.06519866.chunk.js.map": "/Food-Nutrition/static/js/787.06519866.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f63e4bfb.css",
-    "static/js/main.6a0cfaa4.js"
+    "static/css/main.d6948e0d.css",
+    "static/js/main.0d4f2736.js"
   ]
 }
